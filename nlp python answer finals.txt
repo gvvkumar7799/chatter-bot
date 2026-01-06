@@ -8,7 +8,7 @@ Reducing Toil or Toil Reduction Activities that can reduce toil are Creating ext
 
 Service Level Indicators (SLI) A Service Level Indicator (SLI) is a measure of the service level provided by a service provider to a customer, SLIs form the basis of Service Level Objectives (SLOs), which in turn form the basis of Service Level Agreements (SLAs), An SLI can also be called an SLA metric, Although every system is different in the services provided, common SLIs are used pretty often. Common SLIs include latency, throughput, availability, and error rate; others include durability (in storage systems), end-to-end latency (for complex data processing systems, especially pipelines), and correctness.
 
-
+#Testing 
 
 
 
@@ -434,3 +434,5 @@ virtual environment is a cooperatively isolated runtime environment that allows 
 virtual machine is a computer defined entirely in software Python’s virtual machine executes the bytecode emitted by the bytecode compiler.
 
 Zen of Python is Listing of Python design principles and philosophies that are helpful in understanding and using the language, The listing can be found by typing “import this” at the interactive prompt.
+
+
